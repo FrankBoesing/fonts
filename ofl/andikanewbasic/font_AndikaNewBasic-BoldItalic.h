@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AndikaNewBasic_8_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_9_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_10_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_11_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_12_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_13_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_14_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_15_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_16_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_17_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_18_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_20_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_21_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_22_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_24_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_26_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_28_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_32_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_40_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_48_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_60_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_72_Bold_Italic;
+extern const ILI9341_t3_font_t AndikaNewBasic_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

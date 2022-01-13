@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t KulimParkExtraLight_8_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_9_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_10_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_11_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_12_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_13_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_14_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_15_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_16_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_17_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_18_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_20_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_21_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_22_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_24_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_26_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_28_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_32_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_40_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_48_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_60_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_72_Italic;
+extern const ILI9341_t3_font_t KulimParkExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_8;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_9;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_10;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_11;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_12;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_13;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_14;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_15;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_16;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_17;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_18;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_20;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_21;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_22;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_24;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_26;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_28;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_32;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_40;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_48;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_60;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_72;
+extern const ILI9341_t3_font_t IBMPlexSansThaiLoopedSemiBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

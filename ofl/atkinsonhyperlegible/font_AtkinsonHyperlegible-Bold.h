@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_8_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_9_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_10_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_11_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_12_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_13_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_14_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_15_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_16_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_17_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_18_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_20_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_21_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_22_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_24_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_26_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_28_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_32_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_40_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_48_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_60_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_72_Bold;
+extern const ILI9341_t3_font_t AtkinsonHyperlegible_96_Bold;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

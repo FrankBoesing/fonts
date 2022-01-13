@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_8;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_9;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_10;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_11;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_12;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_13;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_14;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_15;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_16;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_17;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_18;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_20;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_21;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_22;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_24;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_26;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_28;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_32;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_40;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_48;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_60;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_72;
+extern const ILI9341_t3_font_t NotoSansThaiLoopedSemibold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

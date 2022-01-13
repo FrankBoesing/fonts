@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t MontserratAlternatesLight_8_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_9_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_10_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_11_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_12_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_13_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_14_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_15_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_16_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_17_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_18_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_20_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_21_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_22_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_24_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_26_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_28_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_32_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_40_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_48_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_60_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_72_Italic;
+extern const ILI9341_t3_font_t MontserratAlternatesLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

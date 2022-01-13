@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_8_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_9_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_10_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_11_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_12_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_13_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_14_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_15_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_16_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_17_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_18_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_20_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_21_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_22_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_24_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_26_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_28_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_32_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_40_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_48_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_60_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_72_Italic;
+extern const ILI9341_t3_font_t BeVietnamProSemiBold_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_8;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_9;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_10;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_11;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_12;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_13;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_14;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_15;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_16;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_17;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_18;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_20;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_21;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_22;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_24;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_26;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_28;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_32;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_40;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_48;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_60;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_72;
+extern const ILI9341_t3_font_t BigShouldersStencilTextThin_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

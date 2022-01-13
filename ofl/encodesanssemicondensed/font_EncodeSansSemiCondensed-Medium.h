@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_8;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_9;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_10;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_11;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_12;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_13;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_14;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_15;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_16;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_17;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_18;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_20;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_21;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_22;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_24;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_26;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_28;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_32;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_40;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_48;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_60;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_72;
+extern const ILI9341_t3_font_t EncodeSansSemiCondensedMedium_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

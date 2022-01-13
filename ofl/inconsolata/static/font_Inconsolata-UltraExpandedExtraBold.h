@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_8;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_9;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_10;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_11;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_12;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_13;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_14;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_15;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_16;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_17;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_18;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_20;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_21;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_22;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_24;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_26;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_28;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_32;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_40;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_48;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_60;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_72;
+extern const ILI9341_t3_font_t InconsolataUltraExpandedExtraBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

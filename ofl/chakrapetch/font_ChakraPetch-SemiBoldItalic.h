@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_8_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_9_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_10_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_11_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_12_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_13_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_14_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_15_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_16_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_17_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_18_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_20_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_21_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_22_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_24_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_26_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_28_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_32_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_40_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_48_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_60_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_72_Italic;
+extern const ILI9341_t3_font_t ChakraPetchSemiBold_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

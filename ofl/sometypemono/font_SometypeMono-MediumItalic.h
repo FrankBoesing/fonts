@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t SometypeMonoMedium_8_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_9_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_10_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_11_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_12_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_13_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_14_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_15_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_16_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_17_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_18_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_20_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_21_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_22_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_24_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_26_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_28_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_32_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_40_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_48_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_60_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_72_Italic;
+extern const ILI9341_t3_font_t SometypeMonoMedium_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

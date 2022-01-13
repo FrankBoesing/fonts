@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_8;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_9;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_10;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_11;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_12;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_13;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_14;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_15;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_16;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_17;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_18;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_20;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_21;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_22;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_24;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_26;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_28;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_32;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_40;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_48;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_60;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_72;
+extern const ILI9341_t3_font_t SairaSemiCondensedExtraLight_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

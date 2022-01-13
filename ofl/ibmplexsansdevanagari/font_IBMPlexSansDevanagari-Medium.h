@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_8;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_9;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_10;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_11;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_12;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_13;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_14;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_15;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_16;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_17;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_18;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_20;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_21;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_22;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_24;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_26;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_28;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_32;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_40;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_48;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_60;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_72;
+extern const ILI9341_t3_font_t IBMPlexSansDevanagariMedium_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

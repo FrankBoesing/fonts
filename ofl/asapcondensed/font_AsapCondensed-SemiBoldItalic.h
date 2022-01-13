@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_8_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_9_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_10_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_11_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_12_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_13_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_14_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_15_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_16_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_17_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_18_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_20_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_21_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_22_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_24_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_26_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_28_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_32_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_40_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_48_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_60_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_72_Italic;
+extern const ILI9341_t3_font_t AsapCondensedSemiBold_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

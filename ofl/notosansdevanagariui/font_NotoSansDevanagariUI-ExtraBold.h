@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_8;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_9;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_10;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_11;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_12;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_13;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_14;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_15;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_16;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_17;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_18;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_20;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_21;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_22;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_24;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_26;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_28;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_32;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_40;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_48;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_60;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_72;
+extern const ILI9341_t3_font_t NotoSansDevanagariUIExtraBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_8_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_9_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_10_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_11_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_12_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_13_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_14_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_15_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_16_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_17_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_18_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_20_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_21_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_22_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_24_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_26_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_28_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_32_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_40_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_48_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_60_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_72_Italic;
+extern const ILI9341_t3_font_t TitilliumWebExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

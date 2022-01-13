@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t PiazzollaThinItalic_8_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_9_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_10_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_11_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_12_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_13_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_14_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_15_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_16_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_17_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_18_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_20_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_21_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_22_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_24_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_26_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_28_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_32_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_40_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_48_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_60_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_72_Italic;
+extern const ILI9341_t3_font_t PiazzollaThinItalic_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

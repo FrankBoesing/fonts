@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t FahkwangExtraLight_8_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_9_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_10_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_11_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_12_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_13_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_14_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_15_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_16_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_17_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_18_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_20_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_21_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_22_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_24_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_26_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_28_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_32_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_40_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_48_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_60_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_72_Italic;
+extern const ILI9341_t3_font_t FahkwangExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

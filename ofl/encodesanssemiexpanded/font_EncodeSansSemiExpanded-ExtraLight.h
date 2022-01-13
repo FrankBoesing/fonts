@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_8;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_9;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_10;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_11;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_12;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_13;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_14;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_15;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_16;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_17;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_18;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_20;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_21;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_22;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_24;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_26;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_28;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_32;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_40;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_48;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_60;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_72;
+extern const ILI9341_t3_font_t EncodeSansSemiExpandedExLight_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

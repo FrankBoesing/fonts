@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_8;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_9;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_10;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_11;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_12;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_13;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_14;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_15;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_16;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_17;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_18;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_20;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_21;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_22;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_24;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_26;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_28;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_32;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_40;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_48;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_60;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_72;
+extern const ILI9341_t3_font_t NotoSansGujaratiExtraBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

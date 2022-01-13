@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_8_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_9_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_10_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_11_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_12_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_13_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_14_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_15_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_16_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_17_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_18_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_20_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_21_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_22_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_24_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_26_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_28_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_32_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_40_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_48_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_60_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_72_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansSCExtraBold_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

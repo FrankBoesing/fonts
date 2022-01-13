@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_8_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_9_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_10_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_11_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_12_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_13_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_14_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_15_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_16_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_17_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_18_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_20_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_21_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_22_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_24_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_26_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_28_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_32_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_40_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_48_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_60_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_72_Bold;
+extern const ILI9341_t3_font_t ZenKakuGothicAntique_96_Bold;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

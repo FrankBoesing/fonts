@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_8_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_9_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_10_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_11_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_12_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_13_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_14_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_15_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_16_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_17_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_18_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_20_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_21_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_22_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_24_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_26_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_28_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_32_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_40_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_48_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_60_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_72_Italic;
+extern const ILI9341_t3_font_t SourceSerifProExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

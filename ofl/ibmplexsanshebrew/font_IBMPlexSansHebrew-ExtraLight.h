@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_8;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_9;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_10;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_11;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_12;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_13;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_14;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_15;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_16;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_17;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_18;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_20;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_21;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_22;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_24;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_26;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_28;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_32;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_40;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_48;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_60;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_72;
+extern const ILI9341_t3_font_t IBMPlexSansHebrewExtraLight_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

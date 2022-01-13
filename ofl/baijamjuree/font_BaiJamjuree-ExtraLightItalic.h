@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_8_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_9_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_10_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_11_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_12_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_13_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_14_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_15_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_16_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_17_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_18_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_20_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_21_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_22_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_24_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_26_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_28_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_32_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_40_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_48_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_60_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_72_Italic;
+extern const ILI9341_t3_font_t BaiJamjureeExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

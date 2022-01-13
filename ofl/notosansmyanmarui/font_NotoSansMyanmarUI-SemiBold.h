@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_8;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_9;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_10;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_11;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_12;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_13;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_14;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_15;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_16;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_17;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_18;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_20;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_21;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_22;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_24;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_26;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_28;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_32;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_40;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_48;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_60;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_72;
+extern const ILI9341_t3_font_t NotoSansMyanmarUISemiBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

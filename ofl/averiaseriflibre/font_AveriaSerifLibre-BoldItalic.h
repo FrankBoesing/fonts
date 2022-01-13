@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AveriaSerifLibre_8_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_9_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_10_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_11_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_12_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_13_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_14_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_15_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_16_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_17_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_18_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_20_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_21_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_22_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_24_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_26_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_28_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_32_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_40_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_48_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_60_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_72_Bold_Italic;
+extern const ILI9341_t3_font_t AveriaSerifLibre_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

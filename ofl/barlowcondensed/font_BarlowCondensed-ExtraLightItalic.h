@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_8_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_9_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_10_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_11_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_12_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_13_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_14_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_15_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_16_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_17_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_18_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_20_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_21_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_22_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_24_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_26_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_28_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_32_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_40_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_48_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_60_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_72_Italic;
+extern const ILI9341_t3_font_t BarlowCondensedExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

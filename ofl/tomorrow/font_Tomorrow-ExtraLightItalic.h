@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t TomorrowExtraLight_8_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_9_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_10_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_11_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_12_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_13_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_14_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_15_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_16_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_17_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_18_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_20_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_21_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_22_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_24_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_26_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_28_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_32_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_40_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_48_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_60_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_72_Italic;
+extern const ILI9341_t3_font_t TomorrowExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

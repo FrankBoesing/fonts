@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_8;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_9;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_10;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_11;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_12;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_13;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_14;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_15;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_16;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_17;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_18;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_20;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_21;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_22;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_24;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_26;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_28;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_32;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_40;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_48;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_60;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_72;
+extern const ILI9341_t3_font_t IBMPlexSansCondensedSemiBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif

@@ -1,0 +1,34 @@
+#pragma once
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t CormorantGaramondMedium_8_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_9_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_10_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_11_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_12_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_13_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_14_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_15_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_16_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_17_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_18_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_20_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_21_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_22_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_24_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_26_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_28_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_32_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_40_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_48_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_60_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_72_Italic;
+extern const ILI9341_t3_font_t CormorantGaramondMedium_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
