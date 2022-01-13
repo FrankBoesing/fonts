@@ -5,7 +5,7 @@ This a repos contains the converted files only - packed together into individual
  - apache
  - ofl
  - ufl
- - 
+ 
 subdirectories of the original google repo.
 
 As of 13.01.2022, they contain more than 3300 converted ttf files.
